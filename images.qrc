@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>drawImg.png</file>
+        <file>losImg.png</file>
+        <file>paperImg.png</file>
+        <file>rockImg.png</file>
+        <file>scissorImg.png</file>
+        <file>winImg.png</file>
+    </qresource>
+</RCC>
